@@ -1,2 +1,2 @@
 # radheKrishna
-An Ecommerce application for suppliers.
+An Ecommerce application for local suppliers.
